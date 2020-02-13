@@ -1603,6 +1603,27 @@ a {
   position: absolute;
 }
 
+.slide-50 {
+  background-image: url('../images/SystemDesign.png');
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.slide-51 {
+  background-image: url('../images/Still1.png');
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.slide-52 {
+  background-image: url('../images/Still2.png');
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
 @media screen and (max-width: 991px) {
   .title {
     -ms-grid-rows: 1fr 0.25fr 0.25fr 0.25fr 0.25fr 0.25fr 0.25fr;
