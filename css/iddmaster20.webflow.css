@@ -1533,7 +1533,7 @@ a {
 }
 
 .slide-41 {
-  background-image: url('../images/73006585_437665653773691_4873111153333290133_n.JPG');
+  background-image: url('../images/polly-01.jpg');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -1568,14 +1568,14 @@ a {
 }
 
 .slide-46 {
-  background-image: url('../images/70684147_2452098228230895_1624251913475881062_n.JPG');
+  background-image: url('../images/polly-02.jpg');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 .slide-47 {
-  background-image: url('../images/70774380_1009626482713296_7122545629649888060_n.JPG');
+  background-image: url('../images/polly-03.jpg');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -1619,6 +1619,34 @@ a {
 
 .slide-52 {
   background-image: url('../images/Still2.png');
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.slide-53 {
+  background-image: url('../images/li-poster.jpeg');
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.slide-54 {
+  background-image: url('../images/li-01.jpeg');
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.slide-55 {
+  background-image: url('../images/li-02.jpeg');
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.slide-56 {
+  background-image: url('../images/li-03.jpg');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
