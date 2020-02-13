@@ -1372,7 +1372,7 @@ a {
 }
 
 .slide-22 {
-  background-image: url('../images/未标题-1.jpg');
+  background-image: url('../images/未标题-1_1.jpg');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -1386,14 +1386,14 @@ a {
 }
 
 .slide-24 {
-  background-image: url('../images/E0D50F86-26D5-4267-B87B-0C2CE74C13CB.JPG');
+  background-image: url('../images/E0D50F86-26D5-4267-B87B-0C2CE74C13CB_1.JPG');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 .slide-25 {
-  background-image: url('../images/route.jpg');
+  background-image: url('../images/route_1.jpg');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -1647,6 +1647,27 @@ a {
 
 .slide-56 {
   background-image: url('../images/li-03.jpg');
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.slide-57 {
+  background-image: url('../images/tang-01.jpg');
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.slide-58 {
+  background-image: url('../images/tang-02.jpg');
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.slide-59 {
+  background-image: url('../images/tang-03.jpg');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
