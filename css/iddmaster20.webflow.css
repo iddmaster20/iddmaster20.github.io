@@ -1647,35 +1647,42 @@ a {
 }
 
 .slide-57 {
-  background-image: url('../images/tang-01.jpg');
-  background-position: 50% 50%;
-  background-size: contain;
-  background-repeat: no-repeat;
-}
-
-.slide-58 {
   background-image: url('../images/tang-02.jpg');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
-.slide-59 {
+.slide-58 {
   background-image: url('../images/tang-03.jpg');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
+.slide-59 {
+  background-image: url('../images/tang-04.jpg');
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
 .slide-60 {
-  background-image: url('../images/tang-05.jpg');
+  background-image: url('../images/tang-01.jpg');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 .slide-61 {
-  background-image: url('../images/tang-04.jpg');
+  background-image: url('../images/tang-05.jpg');
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.slide-62 {
+  background-image: url('../images/tang-06.jpg');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
