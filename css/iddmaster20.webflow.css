@@ -1673,6 +1673,20 @@ a {
   background-repeat: no-repeat;
 }
 
+.slide-60 {
+  background-image: url('../images/01.jpg');
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.slide-61 {
+  background-image: url('../images/04.jpg');
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
 @media screen and (max-width: 991px) {
   .title {
     -ms-grid-rows: 1fr 0.25fr 0.25fr 0.25fr 0.25fr 0.25fr 0.25fr;
