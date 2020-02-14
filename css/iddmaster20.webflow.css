@@ -1461,21 +1461,21 @@ a {
 }
 
 .slide-35 {
-  background-image: url('../images/1.jpg');
+  background-image: url('../images/hira作品画像1.jpg');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 .slide-36 {
-  background-image: url('../images/2.jpg');
+  background-image: url('../images/hira作品画像2.jpg');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 .slide-37 {
-  background-image: url('../images/3.jpg');
+  background-image: url('../images/hira作品画像3.jpg');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -1668,7 +1668,7 @@ a {
 }
 
 .slide-60 {
-  background-image: url('../images/tang-01.jpg');
+  background-image: url('../images/tang-01_1.jpg');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -1683,6 +1683,13 @@ a {
 
 .slide-62 {
   background-image: url('../images/tang-06.jpg');
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.slide-63 {
+  background-image: url('../images/hira作品画像4.jpg');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
