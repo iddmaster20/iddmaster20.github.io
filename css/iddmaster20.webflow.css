@@ -1540,28 +1540,28 @@ a {
 }
 
 .slide-42 {
-  background-image: url('../images/69738068_134776757844336_8978366072735534378_n.JPG');
+  background-image: url('../images/hayashihiroka.jpg');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 .slide-43 {
-  background-image: url('../images/70067145_135360841152210_4281547621754229176_n.JPG');
+  background-image: url('../images/041A2325.jpg');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 .slide-44 {
-  background-image: url('../images/69984470_518897322008620_8458727817061535361_n.JPG');
+  background-image: url('../images/041A2293.jpg');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 .slide-45 {
-  background-image: url('../images/70785548_544080586370342_6273639062641644413_n.JPG');
+  background-image: url('../images/041A2307.jpg');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -1762,6 +1762,10 @@ a {
   font-family: source-han-serif-japanese, sans-serif;
   color: #000;
   text-align: center;
+}
+
+.div-block-30 {
+  margin-bottom: 15px;
 }
 
 @media screen and (max-width: 991px) {
