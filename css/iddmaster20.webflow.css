@@ -1768,6 +1768,17 @@ a {
   margin-bottom: 15px;
 }
 
+.div-block-31 {
+  margin-top: 0px;
+}
+
+.slide-64 {
+  background-image: url('../images/food_label_square_720.jpg');
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
 @media screen and (max-width: 991px) {
   .title {
     -ms-grid-rows: 1fr 0.25fr 0.25fr 0.25fr 0.25fr 0.25fr 0.25fr;
