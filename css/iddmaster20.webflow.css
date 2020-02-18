@@ -1731,7 +1731,7 @@ a {
 .image-25 {
   display: block;
   margin-right: 10px;
-  margin-left: 10px;
+  margin-left: 0px;
 }
 
 .link-block-4 {
@@ -2074,7 +2074,7 @@ a {
   }
   .gallery-image-title {
     position: absolute;
-    display: none;
+    display: block;
   }
   .footer {
     margin-top: 40px;
@@ -2140,12 +2140,9 @@ a {
     padding: 10px 20px 20px;
   }
   .div-block-13 {
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
-    display: flex;
+    display: none;
     margin-top: 20px;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
     -webkit-box-pack: center;
     -webkit-justify-content: center;
     -ms-flex-pack: center;
