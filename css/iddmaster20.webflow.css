@@ -1795,6 +1795,35 @@ a {
   align-items: center;
 }
 
+.div-block-33 {
+  margin-right: 220px;
+  margin-bottom: 60px;
+  margin-left: 220px;
+  border: 1px none #000;
+  border-radius: 2px;
+  background-color: rgba(255, 255, 255, 0.6);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(243, 213, 213, 0.5)), to(rgba(243, 213, 213, 0.5)));
+  background-image: linear-gradient(180deg, rgba(243, 213, 213, 0.5), rgba(243, 213, 213, 0.5));
+}
+
+.text-block-8 {
+  display: inline-block;
+  margin-left: 10px;
+  padding: 0px;
+}
+
+.italic-text {
+  font-family: source-han-sans-cjk-ja, sans-serif;
+  color: #b77;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.image-27 {
+  margin: 20px 0px 20px 20px;
+}
+
 @media screen and (max-width: 991px) {
   .title {
     -ms-grid-rows: 1fr 0.25fr 0.25fr 0.25fr 0.25fr 0.25fr 0.25fr;
@@ -1830,6 +1859,9 @@ a {
     position: relative;
   }
   .grid-3 {
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
     grid-column-gap: 30px;
     grid-row-gap: 30px;
   }
@@ -1873,6 +1905,19 @@ a {
   .image-square {
     height: 210px;
   }
+  .div-block-33 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    margin-right: 100px;
+    margin-left: 100px;
+  }
+  .text-block-8 {
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
 }
 
 @media screen and (max-width: 767px) {
@@ -1905,6 +1950,19 @@ a {
   }
   .image-square {
     height: 210px;
+  }
+  .div-block-33 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    margin-right: 100px;
+    margin-left: 100px;
+  }
+  .text-block-8 {
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
   }
 }
 
@@ -2194,6 +2252,35 @@ a {
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
+  }
+  .div-block-33 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    margin-right: 20px;
+    margin-left: 20px;
+  }
+  .text-block-8 {
+    position: relative;
+    display: inline-block;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding-right: 0px;
+  }
+  .italic-text {
+    position: static;
+    margin-left: 0px;
+    float: left;
+    clear: none;
+  }
+  .image-27 {
+    position: relative;
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
   }
 }
 
